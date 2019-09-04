@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434106385030",
+    "firebase_url": "https://fir-application-2b668.firebaseio.com",
+    "project_id": "fir-application-2b668",
+    "storage_bucket": "fir-application-2b668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434106385030:android:333fbf7e22424086",
+        "android_client_info": {
+          "package_name": "mobileprogramming.unimelb.com.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434106385030-mh6j9q0kthlthifk7gcctcotrig1mse7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobileprogramming.unimelb.com.firebaseapplication",
+            "certificate_hash": "a92565116517771ce132528331af4e31d482adfe"
+          }
+        },
+        {
+          "client_id": "434106385030-561afbp6nmkkjkp91922ump7tmpfb840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqKkT8hYkkgonvhSvADjojTeYJt4r_vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434106385030-561afbp6nmkkjkp91922ump7tmpfb840.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
